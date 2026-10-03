@@ -1,0 +1,249 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Scaffold project structure and HTML skeleton": [
+      {
+        "executionId": "189da424-b01a-4264-a523-bead938174e6",
+        "chatSessionId": "sess_3d0d2479-2830-4e79-9408-ad7db5b45ee0",
+        "timestamp": 1790860390604
+      },
+      {
+        "executionId": "189da424-b01a-4264-a523-bead938174e6",
+        "chatSessionId": "sess_3d0d2479-2830-4e79-9408-ad7db5b45ee0",
+        "timestamp": 1790860547827
+      }
+    ],
+    "2.1 Define CONSTANTS and initial appState": [
+      {
+        "executionId": "6f594af7-a867-49f8-ab73-eeb9b369ea58",
+        "chatSessionId": "sess_1689e3aa-8224-41a4-b2a2-cf420e3a7ebf",
+        "timestamp": 1790860577677
+      },
+      {
+        "executionId": "6f594af7-a867-49f8-ab73-eeb9b369ea58",
+        "chatSessionId": "sess_1689e3aa-8224-41a4-b2a2-cf420e3a7ebf",
+        "timestamp": 1790860625367
+      }
+    ],
+    "2.2 Implement `loadFromStorage()` and `persistState()`": [
+      {
+        "executionId": "6f594af7-a867-49f8-ab73-eeb9b369ea58",
+        "chatSessionId": "sess_1689e3aa-8224-41a4-b2a2-cf420e3a7ebf",
+        "timestamp": 1790860629397
+      },
+      {
+        "executionId": "6f594af7-a867-49f8-ab73-eeb9b369ea58",
+        "chatSessionId": "sess_1689e3aa-8224-41a4-b2a2-cf420e3a7ebf",
+        "timestamp": 1790860690137
+      }
+    ],
+    "2. Implement constants, state, and Local Storage layer": [
+      {
+        "executionId": "6f594af7-a867-49f8-ab73-eeb9b369ea58",
+        "chatSessionId": "sess_1689e3aa-8224-41a4-b2a2-cf420e3a7ebf",
+        "timestamp": 1790860690252
+      }
+    ],
+    "3.1 Implement `formatCurrency`, `computeBalance`, and `validateTransaction`": [
+      {
+        "executionId": "b34c8b84-8863-4455-b546-f30b8e66e216",
+        "chatSessionId": "sess_1ef3758b-a690-42f5-9e29-4473dad831b7",
+        "timestamp": 1790860751334
+      },
+      {
+        "executionId": "b34c8b84-8863-4455-b546-f30b8e66e216",
+        "chatSessionId": "sess_1ef3758b-a690-42f5-9e29-4473dad831b7",
+        "timestamp": 1790861167258
+      }
+    ],
+    "3.4 Implement `aggregateByCategory` and `isOverLimit`": [
+      {
+        "executionId": "b34c8b84-8863-4455-b546-f30b8e66e216",
+        "chatSessionId": "sess_1ef3758b-a690-42f5-9e29-4473dad831b7",
+        "timestamp": 1790860755154
+      },
+      {
+        "executionId": "b34c8b84-8863-4455-b546-f30b8e66e216",
+        "chatSessionId": "sess_1ef3758b-a690-42f5-9e29-4473dad831b7",
+        "timestamp": 1790861170871
+      }
+    ],
+    "3.7 Implement `sortTransactions` and `validateSpendingLimit`": [
+      {
+        "executionId": "b34c8b84-8863-4455-b546-f30b8e66e216",
+        "chatSessionId": "sess_1ef3758b-a690-42f5-9e29-4473dad831b7",
+        "timestamp": 1790860760312
+      },
+      {
+        "executionId": "b34c8b84-8863-4455-b546-f30b8e66e216",
+        "chatSessionId": "sess_1ef3758b-a690-42f5-9e29-4473dad831b7",
+        "timestamp": 1790861174422
+      }
+    ],
+    "3.2 Write property test for `computeBalance` (Property 6)": [
+      {
+        "executionId": "14bff92c-97e1-41d8-a36c-067dc641edb0",
+        "chatSessionId": "sess_9e9c0065-8330-45a5-a954-0164e2ba20f6",
+        "timestamp": 1790861196947
+      },
+      {
+        "executionId": "14bff92c-97e1-41d8-a36c-067dc641edb0",
+        "chatSessionId": "sess_9e9c0065-8330-45a5-a954-0164e2ba20f6",
+        "timestamp": 1790863616022
+      }
+    ],
+    "3.3 Write property test for invalid form submissions (Property 2)": [
+      {
+        "executionId": "d343765e-33f9-4921-95f8-0a0f5dc60c17",
+        "chatSessionId": "sess_b82475a5-51bc-4e7a-8e05-58024a73c3e0",
+        "timestamp": 1790863629332
+      },
+      {
+        "executionId": "2bc04676-eaee-42df-9f51-f76f5f4c7c0a",
+        "chatSessionId": "sess_13a00f43-e1f3-45c1-a1c5-a2012976b301",
+        "timestamp": 1790869800510
+      },
+      {
+        "executionId": "2bc04676-eaee-42df-9f51-f76f5f4c7c0a",
+        "chatSessionId": "sess_13a00f43-e1f3-45c1-a1c5-a2012976b301",
+        "timestamp": 1790870176983
+      }
+    ],
+    "3. Implement pure business logic functions": [
+      {
+        "executionId": "2bc04676-eaee-42df-9f51-f76f5f4c7c0a",
+        "chatSessionId": "sess_13a00f43-e1f3-45c1-a1c5-a2012976b301",
+        "timestamp": 1790870177064
+      }
+    ],
+    "4. Checkpoint — Ensure all business logic tests pass": [
+      {
+        "executionId": "59d1492a-ce32-4695-ae00-478312187296",
+        "chatSessionId": "sess_168f8490-cf6d-4c58-ad9b-c485f25236ce",
+        "timestamp": 1790870203762
+      },
+      {
+        "executionId": "59d1492a-ce32-4695-ae00-478312187296",
+        "chatSessionId": "sess_168f8490-cf6d-4c58-ad9b-c485f25236ce",
+        "timestamp": 1790870875168
+      }
+    ],
+    "5.1 Implement `renderBalance()`": [
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790870902474
+      },
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790871077395
+      }
+    ],
+    "5.2 Implement `renderCategoryDropdown()`": [
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790870906024
+      },
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790871080760
+      }
+    ],
+    "5.3 Implement `renderTransactionList()`": [
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790870909871
+      },
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790871084160
+      }
+    ],
+    "5.5 Implement `renderPieChart()` / `updatePieChart()`": [
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790870913953
+      },
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790871088199
+      }
+    ],
+    "5.6 Implement `renderAll()`": [
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790870919843
+      },
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790871091742
+      }
+    ],
+    "5. Implement core render functions": [
+      {
+        "executionId": "9674a90b-1d41-4495-add5-d9c60fb4d9e3",
+        "chatSessionId": "sess_46c2df75-0bff-4845-b4c8-7230f2855fb3",
+        "timestamp": 1790871091893
+      }
+    ],
+    "6.1 Wire the Input Form submit event handler": [
+      {
+        "executionId": "d2d375b3-7614-4f55-b51e-bbcdb350900b",
+        "chatSessionId": "sess_cc5e3b5e-fc27-4793-b1ce-e5ad4074f225",
+        "timestamp": 1790871177422
+      },
+      {
+        "executionId": "d2d375b3-7614-4f55-b51e-bbcdb350900b",
+        "chatSessionId": "sess_cc5e3b5e-fc27-4793-b1ce-e5ad4074f225",
+        "timestamp": 1790871279643
+      }
+    ],
+    "6.4 Wire the delete button event handler (event delegation on the list container)": [
+      {
+        "executionId": "d2d375b3-7614-4f55-b51e-bbcdb350900b",
+        "chatSessionId": "sess_cc5e3b5e-fc27-4793-b1ce-e5ad4074f225",
+        "timestamp": 1790871181623
+      },
+      {
+        "executionId": "d2d375b3-7614-4f55-b51e-bbcdb350900b",
+        "chatSessionId": "sess_cc5e3b5e-fc27-4793-b1ce-e5ad4074f225",
+        "timestamp": 1790871283464
+      }
+    ],
+    "6. Implement add-transaction and delete-transaction flows": [
+      {
+        "executionId": "d2d375b3-7614-4f55-b51e-bbcdb350900b",
+        "chatSessionId": "sess_cc5e3b5e-fc27-4793-b1ce-e5ad4074f225",
+        "timestamp": 1790871283538
+      }
+    ],
+    "7. Checkpoint — Core add/delete/display flows working end-to-end": [
+      {
+        "executionId": "2688e436-ad02-4292-adfa-478694e0dbf2",
+        "chatSessionId": "sess_19a49d58-decc-4e3e-bd49-d93891ce3fee",
+        "timestamp": 1790871333808
+      },
+      {
+        "executionId": "2688e436-ad02-4292-adfa-478694e0dbf2",
+        "chatSessionId": "sess_19a49d58-decc-4e3e-bd49-d93891ce3fee",
+        "timestamp": 1790871631571
+      }
+    ],
+    "15. Final checkpoint — Full integration verification": [
+      {
+        "executionId": "c63592f4-586a-4e84-a1ae-23d00b5bc5b9",
+        "chatSessionId": "sess_e1b9082d-df73-47b3-b867-b8dd2c3c71fd",
+        "timestamp": 1790871700700
+      }
+    ]
+  }
+}
